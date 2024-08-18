@@ -2,7 +2,7 @@
 - 👀 I'm interested in technology, nature, cinema, cycling, family and God.
 - 🌱 I'm currently learning how programming JAVA, AWS, Cloud Computing and Scrum. 
 - 💞️ I try to contribute with my knowledge and skills.
-- 📫 You can reach me by email analyst.marcos@gmail.com or phone +55 11 95459-1891.
+- 📫 You can reach me by email analyst.marcos@gmail.com
 - 😄 Pronouns: He/Him
 
 
