@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcosanalyst
 - 👀 I'm interested in technology, nature, cinema, cycling, family and God.
-- 🌱 I'm currently learning how programming JAVA, AWS, Cloud Computing and Scrum. 
+- 🌱 I'm currently learning  TypeScript, Angular, SQL, AWS, Cloud Computing and Scrum. 
 - 💞️ I try to contribute with my knowledge and skills.
 - 📫 You can reach me by email analyst.marcos@gmail.com
 - 😄 Pronouns: He/Him
