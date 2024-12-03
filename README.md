@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @marcosanalyst
 - 👀 I'm interested in technology, nature, cinema, cycling, family and God.
-- 🌱 I'm currently learning  TypeScript, Angular, SQL, AWS, Cloud Computing and Scrum. 
 - 💞️ I try to contribute with my knowledge and skills.
 - 📫 You can reach me by email analyst.marcos@gmail.com
 - 😄 Pronouns: He/Him
+
+Current skills
+- Front-End: Html, CSS, TypeScript, PrimeNG, Apache Echarts, Angular.
+- BD: Queries, SQL, Postgree SQL.
+- Automation: Robot Framework, Appium Inspector.
 
 
 <!---
