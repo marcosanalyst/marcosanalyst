@@ -8,6 +8,7 @@ Current skills
 - Front-End: Html, CSS, TypeScript, PrimeNG, Apache Echarts, Angular.
 - BD: Queries, SQL, Postgree SQL.
 - Automation: Robot Framework, Appium Inspector.
+- Cloud: AWS Cloud Practitioner Foundational.
 
 
 <!---
