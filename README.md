@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @marcosanalyst
-- 👀 I'm interested in technology, nature, cinema, cycling, family and God.
+- 😄 I'm interested in technology, nature, cinema, cycling, family and God.
 - 💞️ I try to contribute with my knowledge and skills.
 - 📫 You can reach me by email analyst.marcos@gmail.com
-- 😄 Pronouns: He/Him
+
 
 Current skills
 - Front-End: Html, CSS, TypeScript, PrimeNG, Apache Echarts, Angular.
